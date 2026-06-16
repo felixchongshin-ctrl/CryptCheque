@@ -11,7 +11,7 @@ Go to [Releases](../../releases) and download the latest zip file.
 1. Install and start **XAMPP** (https://www.apachefriends.org)
 2. Start **Apache** and **MySQL** in the XAMPP Control Panel
 3. Open http://localhost/phpmyadmin, click the **SQL** tab, paste the contents of `schema.sql`, click **Go**
-4. Extract the downloaded zip and double-click `cryptcheque.exe`
+4. Extract the downloaded zip and double-click `cryptcheque-sakurai.exe`
 5. The system opens automatically in your browser
 
 ## Default Accounts
