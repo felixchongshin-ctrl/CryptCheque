@@ -1,7 +1,5 @@
 # CryptCheque - Secure Electronic Cheque System
 
-A provably secure electronic cheque system built with Rust, implementing Ed25519 digital signatures, X25519 key exchange, and AES-256-GCM encryption.
-
 ## Download
 
 Go to [Releases](../../releases) and download the latest zip file.
